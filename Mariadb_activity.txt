@@ -1,0 +1,8 @@
+1. What command is used to create a database? Ans. CREATE DATABASE
+2. What command is used to select a database? Ans. USE
+3. What command is used to display all tables? Ans. SHOW TABLES;
+4. What SQL command is used to add records? Ans. INSERT INTO
+5. What SQL command is used to retrieve records? Ans. SELECT
+6. What is the purpose of the PRIMARY KEY ? Ans. Primary Key is usually used for identification of every inserted/added row.
+7. What is the purpose of AUTO_INCREMENT ? Ans. AUTO INCREMENT adds 1 to the previous primary key.
+8. What is the difference between UPDATE and DELETE ? Ans. Update replaces the information inside a specific row and column, while delete is the function used to remove a row.
